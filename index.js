@@ -1,1 +1,2 @@
-require('./controllers/userController')
+require('./server');
+require('./connection');
